@@ -1,0 +1,2060 @@
+
+{
+  "type": "FeatureCollection",
+  "features": [
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -94.173655,
+	 36.067832
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "address": "Fayetteville Arkansas 72701",
+      "URL": "http://studentaid.ed.gov/about/data-center/school/clery-act#arkansas",
+      "Type of Report ": "Clery ",
+      "Description": " ",
+      "name": "Clery Act Report: University of Arkansas",
+      },
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -118.43302,
+	 35.121373
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "address": "Tehachapi California 93561",
+      "URL": "http://www.ed.gov/news/press-releases/departments-justice-and-education-reach-agreement-tehachapi-calif-public-schools",
+      "Type of Report ": "Title IX",
+      "Description": "Departments of Justice and Education Reach Agreement with Tehachapi Calif. Public Schools to Resolve Harassment Allegations",
+      "name": "Title IX: Tehachapi Public Schools Press Release",
+      },
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -118.43302,
+	 35.121373
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "address": "Tehachapi California 93561",
+      "URL": "http://www.justice.gov/crt/about/edu/documents/tehachapiletter.pdf",
+      "Type of Report ": "Department of Justice ",
+      "Description": "Sex based discrimination at educational institutions",
+      "name": "Letter of Findings in Tehachapi Unified School District (E.D. Cal.)",
+      },
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -117.1351586,
+	 32.8264972
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "address": "San Diego California 92123",
+      "URL": "http://studentaid.ed.gov/about/data-center/school/clery-act#ashford",
+      "Type of Report ": "Clery ",
+      "Description": " ",
+      "name": "Clery Act Report: Ashford University",
+      },
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -118.201306,
+	 33.764235
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "address": "Long Beach California 90802",
+      "URL": "http://studentaid.ed.gov/about/data-center/school/clery-act#calstate",
+      "Type of Report ": "Clery ",
+      "Description": " ",
+      "name": "Clery Act Report: California State University",
+      },
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -122.1874909,
+	 37.3821803
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "address": "Palo Alto California 94304",
+      "URL": "http://studentaid.ed.gov/about/data-center/school/clery-act#paloalto",
+      "Type of Report ": "Clery ",
+      "Description": " ",
+      "name": "Clery Act Report: Palo Alto College",
+      },
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -122.108703,
+	 37.841201
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "address": "Moraga California 94556",
+      "URL": "http://studentaid.ed.gov/about/data-center/school/clery-act#stmaryca",
+      "Type of Report ": "Clery ",
+      "Description": " ",
+      "name": "Clery Act Report: Saint Mary's College of California",
+      },
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -121.761712,
+	 38.538232
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "address": "Davis California 95616",
+      "URL": "http://studentaid.ed.gov/about/data-center/school/clery-act#ucdavis",
+      "Type of Report ": "Clery ",
+      "Description": " ",
+      "name": "Clery Act Report: University of California- Davis",
+      },
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -118.445181,
+	 34.068921
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "address": "Los Angeles California 90095",
+      "URL": "http://studentaid.ed.gov/about/data-center/school/clery-act#ucla",
+      "Type of Report ": "Clery ",
+      "Description": " ",
+      "name": "Clery Act Report: University of California- Los Angeles",
+      },
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -117.242188,
+	 32.880398
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "address": "La Jolla California 92093",
+      "URL": "http://studentaid.ed.gov/about/data-center/school/clery-act#ucsd",
+      "Type of Report ": "Clery ",
+      "Description": " ",
+      "name": "Clery Act Report: University of California- San Diego",
+      },
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -122.358491,
+	 37.933832
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "address": "Richmond California  94804",
+      "URL": "http://www2.ed.gov/about/offices/list/ocr/docs/investigations/09095001-a.html",
+      "Type of Report ": "Title IX",
+      "Description": "West Contra Costa Compliance Review",
+      "name": "Title IX: West Contra Costa Unified School District Compliance Review",
+      },
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -122.358491,
+	 37.933832
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "address": "Richmond California  94804",
+      "URL": "http://www2.ed.gov/about/offices/list/ocr/docs/investigations/09095001-b.html",
+      "Type of Report ": "Title IX",
+      "Description": "West Contra Costa Resolution Agreement",
+      "name": "Title IX: West Contra Costa Unified School District Resolution Agreement",
+      },
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -118.43302,
+	 35.121373
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "address": "Tehachapi California  93561",
+      "URL": "http://www2.ed.gov/about/offices/list/ocr/docs/investigations/09111031-a.html",
+      "Type of Report ": "Title IX",
+      "Description": "Tehachapi Public Schools Compliance Resolution",
+      "name": "Title IX: Tehachapi Public Schools Compliance Resolution",
+      },
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -118.43302,
+	 35.121373
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "address": "Tehachapi California  93561",
+      "URL": "http://www2.ed.gov/about/offices/list/ocr/docs/investigations/09111031-b.html",
+      "Type of Report ": "Title IX",
+      "Description": "Tehachapi Public Schools Resolution Agreement",
+      "name": "Title IX: Tehachapi Public Schools Resolution Agreement",
+      },
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -72.922343,
+	 41.316324
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "address": "New Haven Connecticut 6520",
+      "URL": "http://www.ed.gov/news/press-releases/us-department-education-announces-resolution-yale-university-civil-rights-invest",
+      "Type of Report ": "Title IX",
+      "Description": "U.S. Department of Education Announces Resolution of Yale University Civil Rights Investigation",
+      "name": "Title IX: Yale University Press Release",
+      },
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -72.922343,
+	 41.316324
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "address": "New Haven Connecticut 6520",
+      "URL": "http://www2.ed.gov/about/offices/list/ocr/docs/investigations/01112027-a.html",
+      "Type of Report ": "Title IX",
+      "Description": "Yale University Compliance Resolution",
+      "name": "Title IX: Yale University Compliance Resolution",
+      },
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -72.922343,
+	 41.316324
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "address": "New Haven Connecticut 6520",
+      "URL": "http://www2.ed.gov/about/offices/list/ocr/docs/investigations/01112027-b.html",
+      "Type of Report ": "Title IX",
+      "Description": "Yale University Resolution Agreement",
+      "name": "Title IX: Yale Univeristy Resolution Agreement",
+      },
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -72.922343,
+	 41.316324
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "address": "New Haven Connecticut 6520",
+      "URL": "http://studentaid.ed.gov/about/data-center/school/clery-act#yale",
+      "Type of Report ": "Clery ",
+      "Description": " ",
+      "name": "Clery Act Report: Yale University",
+      },
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -75.542057,
+	 39.18688
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "address": "Dover Delaware 19901",
+      "URL": "http://studentaid.ed.gov/about/data-center/school/clery-act#dsu",
+      "Type of Report ": "Clery ",
+      "Description": " ",
+      "name": "Clery Act Report: Delaware State University",
+      },
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -75.750611,
+	 39.67795
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "address": "Newark Delaware 19716",
+      "URL": "http://studentaid.ed.gov/about/data-center/school/clery-act#uofd",
+      "Type of Report ": "Clery ",
+      "Description": " ",
+      "name": "Clery Act Report: University of Delaware",
+      },
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -75.527609,
+	 39.163115
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "address": "Dover Delaware 19901",
+      "URL": "http://studentaid.ed.gov/about/data-center/school/clery-act#wesley",
+      "Type of Report ": "Clery ",
+      "Description": " ",
+      "name": "Clery Act Report: Wesley College",
+      },
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -82.452184,
+	 27.949249
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "address": "Tampa Florida 33602",
+      "URL": "http://www2.ed.gov/about/offices/list/ocr/docs/investigations/04095002-a.html",
+      "Type of Report ": "Title IX",
+      "Description": "Hillsborough County School District Compliance Resolution",
+      "name": "Title IX: Hillsborough County School District Compliance Resolution",
+      },
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -82.452184,
+	 27.949249
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "address": "Tampa Florida 33602",
+      "URL": "http://www2.ed.gov/about/offices/list/ocr/docs/investigations/04095002-b.html",
+      "Type of Report ": "Title IX",
+      "Description": "Hillsborough County School District Resolution Agreement",
+      "name": "Title IX: Hillsborough County School District Resolution Agreement",
+      },
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -84.298489,
+	 30.441878
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "address": "Tallahassee Florida 32306",
+      "URL": "http://studentaid.ed.gov/about/data-center/school/clery-act#floridasu",
+      "Type of Report ": "Clery ",
+      "Description": " ",
+      "name": "Clery Act Report: Florida State University",
+      },
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -112.019073,
+	 43.493652
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "address": "Idaho Falls Idaho 83401",
+      "URL": "http://www2.ed.gov/about/offices/list/ocr/docs/investigations/10095002.html",
+      "Type of Report ": "Title IX",
+      "Description": "Idaho Falls School District",
+      "name": "Title IX: Idaho Falls School District",
+      },
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -88.773718,
+	 41.934299
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "address": "DeKalb Illinois 60115",
+      "URL": "http://studentaid.ed.gov/about/data-center/school/clery-act#niu",
+      "Type of Report ": "Clery ",
+      "Description": " ",
+      "name": "Clery Act Report: Northern Illinois University",
+      },
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -87.5639389,
+	 37.9723424
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "address": "Evansville Indiana 47713",
+      "URL": "http://www.ed.gov/news/press-releases/office-civil-rights-announces-resolution-title-ix-compliance-review-involving-ev",
+      "Type of Report ": "Title IX",
+      "Description": "Office for Civil Rights Announces Resolution of Title IX Compliance Review Involving the Evansville-Vanderburgh School Corporation in Evansville Ind.",
+      "name": "Title IX: Evansville-Vanderburgh School Corporation Press Release",
+      },
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -87.5639389,
+	 37.9723424
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "address": "Evansville Indiana 47713",
+      "URL": "http://www2.ed.gov/about/offices/list/ocr/docs/investigations/05115002-a.html",
+      "Type of Report ": "Title IX",
+      "Description": "Evansville-Vanderburgh Compliance Review",
+      "name": "Title IX: Evansville-Vanderburgh School Corporation Compliance Review",
+      },
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -87.5639389,
+	 37.9723424
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "address": "Evansville Indiana 47713",
+      "URL": "http://www2.ed.gov/about/offices/list/ocr/docs/investigations/05115002-b.html",
+      "Type of Report ": "Title IX",
+      "Description": "Evansville-Vanderburgh Resolution Agreement",
+      "name": "Title IX: Evansville-Vanderburgh School Corporation Resolution Agreement",
+      },
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -86.16972,
+	 39.8396
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "address": "Indianapolis Indiana 46208",
+      "URL": "http://www.ed.gov/news/press-releases/us-education-department-reaches-agreement-butler-university-resolve-title-ix-ath",
+      "Type of Report ": "Title IX",
+      "Description": "U.S. Education Department Reaches Agreement with Butler University to Resolve Title IX Athletics Compliance Review",
+      "name": "Title IX: Butler University Press Release",
+      },
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -86.16972,
+	 39.8396
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "address": "Indianapolis Indiana 46208",
+      "URL": "http://www2.ed.gov/about/offices/list/ocr/docs/investigations/05116001-a.html",
+      "Type of Report ": "Title IX",
+      "Description": "Butler University Compliance Review",
+      "name": "Title IX: Butler University Compliance Review",
+      },
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -86.16972,
+	 39.8396
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "address": "Indianapolis Indiana 46208",
+      "URL": "http://www2.ed.gov/about/offices/list/ocr/docs/investigations/05116001-b.html",
+      "Type of Report ": "Title IX",
+      "Description": "Butler University Resolution Agreement",
+      "name": "Title IX: Butler University Resolution Agreement",
+      },
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -86.235307,
+	 41.705219
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "address": "Notre Dame Indiana 46556",
+      "URL": "http://www.ed.gov/news/press-releases/civil-rights-office-announces-settlement-agreement-discrimination-investigation-",
+      "Type of Report ": "Title IX",
+      "Description": "Civil Rights Office Announces Settlement Agreement on Discrimination Investigation at Notre Dame",
+      "name": "Title IX: University of Notre Dame Press Release ",
+      },
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -86.235307,
+	 41.705219
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "address": "Notre Dame Indiana 46556",
+      "URL": "http://www2.ed.gov/about/offices/list/ocr/docs/investigations/05072011-a.html",
+      "Type of Report ": "Title IX",
+      "Description": "University of Notre Dame Compliance Review",
+      "name": "Title IX: University of Notre Dame Compliance Review",
+      },
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -86.235307,
+	 41.705219
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "address": "Notre Dame Indiana 46556",
+      "URL": "http://www2.ed.gov/about/offices/list/ocr/docs/investigations/05072011-b.html",
+      "Type of Report ": "Title IX",
+      "Description": "University of Notre Dame Resolution Agreement",
+      "name": "Title IX: University of Notre Dame Resolution Agreement",
+      },
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -85.408841,
+	 40.197237
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "address": "Muncie Indiana 47306",
+      "URL": "http://www2.ed.gov/about/offices/list/ocr/docs/investigations/05096001.html",
+      "Type of Report ": "Title IX",
+      "Description": "Ball State University",
+      "name": "Title IX: Ball State University",
+      },
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -86.258123,
+	 41.70833
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "address": "Notre Dame Indiana 46556",
+      "URL": "http://studentaid.ed.gov/about/data-center/school/clery-act#stmarynd",
+      "Type of Report ": "Clery ",
+      "Description": " ",
+      "name": "Clery Act Report: Saint Mary's College- Notre Dame",
+      },
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -92.463516,
+	 42.513698
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "address": "Cedar Falls Iowa 50614",
+      "URL": "http://studentaid.ed.gov/about/data-center/school/clery-act#uni",
+      "Type of Report ": "Clery ",
+      "Description": " ",
+      "name": "Clery Act Report: University of Northern Iowa",
+      },
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -84.601903,
+	 37.095025
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "address": "Somerset Kentucky 42501",
+      "URL": "http://www.justice.gov/crt/about/edu/documents/putmanbr1.php",
+      "Type of Report ": "Department of Justice ",
+      "Description": "Sex based discrimination at educational institutions",
+      "name": "Putman v. Board of Education of Somerset Indep. School (E.D. Ky.) -Amicus Brief ",
+      },
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -91.180002,
+	 30.413258
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "address": "Baton Rouge Louisiana 70803",
+      "URL": "http://www2.ed.gov/about/offices/list/ocr/docs/investigations/06116001-a.html",
+      "Type of Report ": "Title IX",
+      "Description": "Louisiana State University Compliance Review",
+      "name": "Title IX: Louisiana State University Compliance Resolution",
+      },
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -91.180002,
+	 30.413258
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "address": "Baton Rouge Louisiana 70803",
+      "URL": "http://studentaid.ed.gov/about/data-center/school/clery-act#lsu",
+      "Type of Report ": "Clery ",
+      "Description": " ",
+      "name": "Clery Act Report: Louisiana State University",
+      },
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -91.180002,
+	 30.413258
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "address": "Baton Rouge Lousiana 70803",
+      "URL": "http://www2.ed.gov/about/offices/list/ocr/docs/investigations/06116001-b.html",
+      "Type of Report ": "Title IX",
+      "Description": "Louisiana State University Resolution Agreement",
+      "name": "Title IX: Louisiana State University Resolution Agreement",
+      },
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -70.2947572,
+	 43.6971768
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "address": "Portland Maine 4103",
+      "URL": "http://www.ed.gov/news/press-releases/us-education-department-reaches-agreement-portland-maine-public-schools-increase",
+      "Type of Report ": "Title IX",
+      "Description": "U.S. Education Department Reaches Agreement with Portland Maine Public Schools to Increase Athletic Opportunities for Girls",
+      "name": "Title IX: Compliance Review: Portland Maine Public Schools Press Release",
+      },
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -70.2947572,
+	 43.6971768
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "address": "Portland Maine 4103",
+      "URL": "http://www2.ed.gov/about/offices/list/ocr/docs/investigations/01115001-a.html",
+      "Type of Report ": "Title IX",
+      "Description": "Portland Maine Compliance Review",
+      "name": "Title IX: Portland Public Schools Compliance Resolution",
+      },
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -70.2947572,
+	 43.6971768
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "address": "Portland Maine 4103",
+      "URL": "http://www2.ed.gov/about/offices/list/ocr/docs/investigations/01115001-b.html",
+      "Type of Report ": "Title IX",
+      "Description": "Portland Maine Resolution Agreement",
+      "name": "Title IX: Portland Public Schools Resolution Agreement",
+      },
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -77.35156,
+	 39.681965
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "address": "Emmitsburg Maryland 21727",
+      "URL": "http://studentaid.ed.gov/about/data-center/school/clery-act#msmary",
+      "Type of Report ": "Clery ",
+      "Description": " ",
+      "name": "Clery Act Report: Mount Saint Mary College",
+      },
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -70.8869475,
+	 42.2318299
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "address": "Hingham Massachusetts 2043",
+      "URL": "http://www2.ed.gov/about/offices/list/ocr/docs/investigations/01105003-a.html",
+      "Type of Report ": " Title IX",
+      "Description": "Hingham Public Schools Compliance Review",
+      "name": "Title IX: Hingham Public School District Compliance Resolution",
+      },
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -70.8869475,
+	 42.2318299
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "address": "Hingham Massachusetts 2043",
+      "URL": "http://www2.ed.gov/about/offices/list/ocr/docs/investigations/01105003-b.html",
+      "Type of Report ": "Title IX",
+      "Description": "Hingham Public Schools Resolution Agreement",
+      "name": "Title IX: Hingham Public School District Resolution Agreement",
+      },
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -71.122571,
+	 42.667705
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "address": "North Andover Massachusetts 1845",
+      "URL": "http://www.ed.gov/news/press-releases/office-civil-rights-announces-resolution-compliance-review-involving-merrimack-c",
+      "Type of Report ": "Title IX",
+      "Description": "Merrimack College Press Release",
+      "name": "Title IX: Merrimack College Press Release",
+      },
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -71.122571,
+	 42.667705
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "address": "North Andover Massachusetts 1845",
+      "URL": "http://www2.ed.gov/about/offices/list/ocr/docs/investigations/01106001-a.html",
+      "Type of Report ": "Title IX",
+      "Description": "Merrimack College Compliance Resolution",
+      "name": "Title IX: Merrimack College Compliance Resolution",
+      },
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -71.122571,
+	 42.667705
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "address": "North Andover Massachusetts 1845",
+      "URL": "http://www2.ed.gov/about/offices/list/ocr/docs/investigations/01106001-b.html",
+      "Type of Report ": "Title IX",
+      "Description": "Merrimack College Resolution Agreeement",
+      "name": "Title IX: Merrimack College Resolution Agreement",
+      },
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -83.62469,
+	 42.250551
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "address": "Ypsilanti Michigan 48197",
+      "URL": "http://www2.ed.gov/about/offices/list/ocr/docs/investigations/15096002.html",
+      "Type of Report ": "Title IX",
+      "Description": "Eastern Michigan University",
+      "name": "Title IX: Eastern Michigan University",
+      },
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -83.62469,
+	 42.250551
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "address": "Ypsilanti Michigan 48197",
+      "URL": "http://studentaid.ed.gov/about/data-center/school/clery-act#emich",
+      "Type of Report ": "Clery ",
+      "Description": " ",
+      "name": "Clery Act Report: Eastern Michigan University",
+      },
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -83.738226,
+	 42.278058
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "address": "Ann Arbor Michigan 48109",
+      "URL": "http://studentaid.ed.gov/about/data-center/school/clery-act#michigan",
+      "Type of Report ": "Clery ",
+      "Description": " ",
+      "name": "Clery Act Report: University of Michigan",
+      },
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -93.390967,
+	 45.208833
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "address": "Anoka Minnesota 55303",
+      "URL": "http://www2.ed.gov/about/offices/list/ocr/docs/investigations/05115901.html",
+      "Type of Report ": "Title IX",
+      "Description": "Anoka-Hennepin School District",
+      "name": "Title IX: Anoka-Hennepin School District",
+      },
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -93.390967,
+	 45.208833
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "address": "Anoka Minnesota 55303",
+      "URL": "http://www.justice.gov/crt/about/edu/documents/anokaconsentdec.pdf",
+      "Type of Report ": "Department of Justice ",
+      "Description": "Sex based discrimination at educational institutions",
+      "name": "Consent Decree in Doe and United States v. Anoka-Hennepin School District (D. Minn.)",
+      },
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -93.390967,
+	 45.208833
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "address": "Anoka Minnesota 55303",
+      "URL": "http://www.justice.gov/crt/about/edu/documents/anokacompint.pdf",
+      "Type of Report ": "Department of Justice ",
+      "Description": "Sex based discrimination at educational institutions",
+      "name": "Complaint in Intervention in Doe and United States v. Anoka-Hennepin School District (D. Minn.)",
+      },
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -93.997707,
+	 44.147335
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "address": "Mankato Minnesota 56001",
+      "URL": "http://studentaid.ed.gov/about/data-center/school/clery-act#msu",
+      "Type of Report ": "Clery ",
+      "Description": " ",
+      "name": "Clery Act Report: Minnesota State University",
+      },
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -94.254171,
+	 38.786501
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "address": "Pleasant Hill Missouri 64080",
+      "URL": "http://www.justice.gov/crt/about/edu/documents/lovinscom.php",
+      "Type of Report ": "Department of Justice ",
+      "Description": "Sex based discrimination at educational institutions",
+      "name": "Complaint in Intervention in Lovins and United States v. Pleasant Hill Public School District R-III (W.D. Mo.)",
+      },
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -113.985208,
+	 46.860067
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "address": "Missoula Montana 59812",
+      "URL": "http://www2.ed.gov/about/offices/list/ocr/docs/investigations/10126001.html",
+      "Type of Report ": "Title IX",
+      "Description": "Montana Resolution and Agreement",
+      "name": "Title IX: Sexual Harassment: University of Montana-Missoula",
+      },
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -113.985208,
+	 46.860067
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "address": "Missoula Montana 59812",
+      "URL": "http://www.justice.gov/crt/about/spl/documents/missoulafind_5-9-13.pdf",
+      "Type of Report ": "Department of Justice ",
+      "Description": "Details findings that University of Montana's Office of Public Safety's response to sexual assault resulted in dicrimination against women.  ",
+      "name": "Findings Letter in the United State's invesitigation of University of Montana's Office of Public Safety ",
+      },
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -113.985208,
+	 46.860067
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "address": "Missoula Montana 59812",
+      "URL": "http://www.justice.gov/crt/about/spl/documents/missoulasettle_5-9-13.pdf",
+      "Type of Report ": "Department of Justice ",
+      "Description": "Settlement Agreement between DOJ and University of Montana's Office of Public Safety to implement improved policies provide increased training and modify practice in order to improve response and sexual assault and ensure that there is no gender bias.",
+      "name": "Settlement Agreement between DOJ and University of Montana's Office of Public Safety",
+      },
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -113.985208,
+	 46.860067
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "address": "Missoula Montana 59812",
+      "URL": "http://www.justice.gov/crt/about/edu/documents/montanaletter.pdf",
+      "Type of Report ": "Department of Justice ",
+      "Description": "Sex based discrimination at educational institutions",
+      "name": "Letter of Findings in University of Montana-Missoula (D. Mt.)",
+      },
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -72.055538,
+	 42.778973
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "address": "Rindge New Hampshire 3461",
+      "URL": "http://studentaid.ed.gov/about/data-center/school/clery-act#fpu",
+      "Type of Report ": "Clery ",
+      "Description": " ",
+      "name": "Clery Act Report: Franklin Pierce University",
+      },
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -74.78091,
+	 40.268835
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "address": "Ewing Township New Jersey 8618",
+      "URL": "http://studentaid.ed.gov/about/data-center/school/clery-act#cnj",
+      "Type of Report ": "Clery ",
+      "Description": " ",
+      "name": "Clery Act Report: The College of New Jersey",
+      },
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -74.174622,
+	 41.082065
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "address": "Mahwah New Jersey 7430",
+      "URL": "http://studentaid.ed.gov/about/data-center/school/clery-act#ramapo",
+      "Type of Report ": "Clery ",
+      "Description": " ",
+      "name": "Clery Act Report: Ramapo College of New Jersey",
+      },
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -73.749841,
+	 42.6472947
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "address": "Albany New York 12246",
+      "URL": "http://www2.ed.gov/about/offices/list/ocr/docs/investigations/02116001-a.html",
+      "Type of Report ": "Title IX",
+      "Description": "SUNY's Title IX Compliance Review",
+      "name": "Title IX: State University of New York (SUNY) Compliance Review",
+      },
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -73.749841,
+	 42.6472947
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "address": "Albany New York 12246",
+      "URL": "http://www2.ed.gov/about/offices/list/ocr/docs/investigations/02116001-b.html",
+      "Type of Report ": "Title IX",
+      "Description": "SUNY's Title IX Resolution Agreement",
+      "name": "Title IX: State University of New York (SUNY)  Resolution Agreement",
+      },
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -122.358491,
+	 37.933832
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "address": "Richmond California 94804",
+      "URL": "http://www.ed.gov/news/press-releases/us-department-education-reaches-agreement-west-contra-costa-unified-school-distr",
+      "Type of Report ": "Title IX",
+      "Description": "Press release: West Contra Costa",
+      "name": "Title IX: West Contra Costa Unified School District Press Release",
+      },
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -73.973707,
+	 40.75074
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "address": "New York New York 10017",
+      "URL": "http://www2.ed.gov/about/offices/list/ocr/docs/investigations/02062094.html",
+      "Type of Report ": "Title IX",
+      "Description": "City University of New York Resolution Letter",
+      "name": "Title IX: City University of New York (CUNY) Resolution Letter",
+      },
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -73.901224,
+	 41.925146
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "address": "Rhinebeck New York 12572",
+      "URL": "http://www.justice.gov/crt/about/edu/documents/rcsdreply.pdf",
+      "Type of Report ": "Department of Justice ",
+      "Description": "Sex based discrimination at educational institutions",
+      "name": "Memorandum of Law in A.B. v. Rhinebeck Central School District & Thomas Mawhinney. (S.D. N.Y.)",
+      },
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -73.95031,
+	 41.04762
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "address": "Orangeburg New York 10962",
+      "URL": "http://studentaid.ed.gov/about/data-center/school/clery-act#dcb",
+      "Type of Report ": "Clery ",
+      "Description": " ",
+      "name": "Clery Act Report: Dominican College of Blauvelt",
+      },
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -74.25305,
+	 44.437451
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "address": "Brighton New York 12970",
+      "URL": "http://studentaid.ed.gov/about/data-center/school/clery-act#paulsmith",
+      "Type of Report ": "Clery ",
+      "Description": " ",
+      "name": "Clery Act Report: Paul Smith's College of Arts & Sciences",
+      },
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -80.28145,
+	 36.129842
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "address": "Winston-Salem North Carolina 27106",
+      "URL": "http://studentaid.ed.gov/about/data-center/school/clery-act#wfu",
+      "Type of Report ": "Clery ",
+      "Description": " ",
+      "name": "Clery Act Report: Wake Forest University",
+      },
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -97.076801,
+	 47.922891
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "address": "Grand Forks North Dakota  ",
+      "URL": "http://studentaid.ed.gov/about/data-center/school/clery-act#und",
+      "Type of Report ": "Clery ",
+      "Description": " ",
+      "name": "Clery Act Report: University of North Dakota",
+      },
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -81.516303,
+	 41.506455
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "address": "South Euclid Ohio 44121",
+      "URL": "http://www2.ed.gov/about/offices/list/ocr/docs/investigations/15096001.html",
+      "Type of Report ": "Title IX",
+      "Description": "Notre Dame College",
+      "name": "Title IX: Notre Dame College",
+      },
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -84.730877,
+	 39.510533
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "address": "Oxford Ohio 45056",
+      "URL": "http://studentaid.ed.gov/about/data-center/school/clery-act#muo",
+      "Type of Report ": "Clery ",
+      "Description": " ",
+      "name": "Clery Act Report: Miami University of Ohio",
+      },
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -81.516303,
+	 41.506455
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "address": "South Euclid Ohio 44121",
+      "URL": "http://studentaid.ed.gov/about/data-center/school/clery-act#notredame",
+      "Type of Report ": "Clery ",
+      "Description": " ",
+      "name": "Clery Act Report: Notre Dame College of Ohio",
+      },
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -83.031085,
+	 40.013842
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "address": "Columbus Ohio 43210",
+      "URL": "http://studentaid.ed.gov/about/data-center/school/clery-act#osu",
+      "Type of Report ": "Clery ",
+      "Description": " ",
+      "name": "Clery Act Report: The Ohio State University",
+      },
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -97.073722,
+	 36.127024
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "address": "Stillwater Oklahoma 74074",
+      "URL": "http://studentaid.ed.gov/about/data-center/school/clery-act#oklahomastate",
+      "Type of Report ": "Clery ",
+      "Description": " ",
+      "name": "Clery Act Report: Okahoma State University",
+      },
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -123.279475,
+	 44.563736
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "address": "Corvallis Oregon 97331",
+      "URL": "http://studentaid.ed.gov/about/data-center/school/clery-act#oregon",
+      "Type of Report ": "Clery ",
+      "Description": " ",
+      "name": "Clery Act Report: Oregon State University",
+      },
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -75.4665125,
+	 40.603092
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "address": "Allentown Pennsylvania 18102",
+      "URL": "http://www.justice.gov/crt/about/edu/documents/allentownconsent.pdf",
+      "Type of Report ": "Department of Justice ",
+      "Description": "Sex based discrimination at educational institutions",
+      "name": "Settlement Agreement  in Junior Doe et al. & United States v. Allentown School District (E.D. Pa.)",
+      },
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -75.155176,
+	 40.039192
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "address": "Philadelphia Pennsylvania 19141",
+      "URL": "http://studentaid.ed.gov/about/data-center/school/clery-act#lasalle",
+      "Type of Report ": "Clery ",
+      "Description": " ",
+      "name": "Clery Act Report: LaSalle University",
+      },
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -75.927453,
+	 39.808079
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "address": "Lincoln University Pennsylvania 19352",
+      "URL": "http://studentaid.ed.gov/about/data-center/school/clery-act#lincoln",
+      "Type of Report ": "Clery ",
+      "Description": " ",
+      "name": "Clery Act Report: Lincoln University",
+      },
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -80.042016,
+	 41.062814
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "address": "Slippery Rock Pennsylvania 16057",
+      "URL": "http://studentaid.ed.gov/about/data-center/school/clery-act#slipperyrock",
+      "Type of Report ": "Clery ",
+      "Description": " ",
+      "name": "Clery Act Report: Slippery Rock University",
+      },
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -75.193214,
+	 39.952219
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "address": "Philadelphia Pennsylvania 19104",
+      "URL": "http://studentaid.ed.gov/about/data-center/school/clery-act#upenn",
+      "Type of Report ": "Clery ",
+      "Description": " ",
+      "name": "Clery Act Report: University of Pennsylvania",
+      },
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -82.837187,
+	 34.669578
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "address": "Clemson South Carolina 29634",
+      "URL": "http://studentaid.ed.gov/about/data-center/school/clery-act#clemson",
+      "Type of Report ": "Clery ",
+      "Description": " ",
+      "name": "Clery Act Report: Clemson University",
+      },
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -96.782122,
+	 44.318573
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "address": "Brookings South Dakota 57006",
+      "URL": "http://studentaid.ed.gov/about/data-center/school/clery-act#sdsu",
+      "Type of Report ": "Clery ",
+      "Description": " ",
+      "name": "Clery Act Report: South Dakota State University",
+      },
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -86.766938,
+	 36.121
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "address": "Nashville Tennessee 37204",
+      "URL": "http://www.justice.gov/crt/about/edu/documents/lopezconsentdecree.pdf",
+      "Type of Report ": "Department of Justice ",
+      "Description": "Sex based discrimination at educational institutions",
+      "name": "Consent Decree in Lopez and United States v. Metropolitan Nashville School District (M.D. Tenn)",
+      },
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -86.766938,
+	 36.121
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "address": "Nashville Tennessee 37204",
+      "URL": "http://www.justice.gov/crt/about/edu/documents/lopezmemoinsuppmsj.pdf",
+      "Type of Report ": "Department of Justice ",
+      "Description": "Sex based discrimination at educational institutions",
+      "name": "Memorandum of Law in support of Motion for Summary Judgment in Lopez and United States v. Metropolitan Nashville School District (M.D. Tenn)",
+      },
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -86.766938,
+	 36.121
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "address": "Nashville Tennessee 37204",
+      "URL": "http://www.justice.gov/crt/about/edu/documents/lopezreplymsjredact.pdf",
+      "Type of Report ": "Department of Justice ",
+      "Description": "Sex based discrimination at educational institutions",
+      "name": "Reply Brief in support of Motion for Summary Judgment in Lopez and United States v. Metropolitan Nashville School District (M.D. Tenn)",
+      },
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -98.706206,
+	 29.469275
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "address": "San Antonio Texas 78251",
+      "URL": "http://studentaid.ed.gov/about/data-center/school/clery-act#nwvista",
+      "Type of Report ": "Clery ",
+      "Description": " ",
+      "name": "Clery Act Report: Northwest Vista College",
+      },
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -98.45352,
+	 29.414141
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "address": "San Antonio Texas 78203",
+      "URL": "http://studentaid.ed.gov/about/data-center/school/clery-act#stphilips",
+      "Type of Report ": "Clery ",
+      "Description": " ",
+      "name": "Clery Act Report: Saint Philip's College",
+      },
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -80.568496,
+	 39.284951
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "address": "Salem West Virginia 26426",
+      "URL": "http://studentaid.ed.gov/about/data-center/school/clery-act#salem",
+      "Type of Report ": "Clery ",
+      "Description": " ",
+      "name": "Clery Act Report: Salem International University",
+      },
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -99.130819,
+	 30.031826
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "address": "Kerrville Texas 78028",
+      "URL": "http://studentaid.ed.gov/about/data-center/school/clery-act#schreiner",
+      "Type of Report ": "Clery ",
+      "Description": " ",
+      "name": "Clery Act Report: Schreiner University",
+      },
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -98.214726,
+	 32.21492
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "address": "Stephenville Texas 76401",
+      "URL": "http://studentaid.ed.gov/about/data-center/school/clery-act#tarleton",
+      "Type of Report ": "Clery ",
+      "Description": " ",
+      "name": "Clery Act Report: Tarleton State University",
+      },
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -97.114774,
+	 32.730468
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "address": "Arlington Texas 76019",
+      "URL": "http://studentaid.ed.gov/about/data-center/school/clery-act#uta",
+      "Type of Report ": "Clery ",
+      "Description": " ",
+      "name": "Clery Act Report: University of Texas at Arlington",
+      },
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -111.842102,
+	 40.764937
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "address": "Salt Lake City Utah 84112",
+      "URL": "http://studentaid.ed.gov/about/data-center/school/clery-act#utah",
+      "Type of Report ": "Clery ",
+      "Description": " ",
+      "name": "Clery Act Report: University of Utah",
+      },
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -73.196464,
+	 44.477853
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "address": "Burlington Vermont 5405",
+      "URL": "http://studentaid.ed.gov/about/data-center/school/clery-act#uvm",
+      "Type of Report ": "Clery ",
+      "Description": " ",
+      "name": "Clery Act Report: University of Vermont",
+      },
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -80.423417,
+	 37.228384
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "address": "Blacksburg Virgina 24061",
+      "URL": "http://studentaid.ed.gov/about/data-center/school/clery-act#vatech",
+      "Type of Report ": "Clery ",
+      "Description": " ",
+      "name": "Clery Act Report: Virginia Polytechnic Institute and State University",
+      },
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -79.179497,
+	 37.353053
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "address": "Lynchburg Virginia 24502",
+      "URL": "http://studentaid.ed.gov/about/data-center/school/clery-act#liberty",
+      "Type of Report ": "Clery ",
+      "Description": " ",
+      "name": "Clery Act Report: Liberty University",
+      },
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -78.507977,
+	 38.033553
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "address": "Charlottesville Virginia  ",
+      "URL": "http://studentaid.ed.gov/about/data-center/school/clery-act#uva",
+      "Type of Report ": "Clery ",
+      "Description": " ",
+      "name": "Clery Act Report: University of Virginia",
+      },
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -117.154422,
+	 46.731937
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "address": "Pullman Washington   ",
+      "URL": "http://studentaid.ed.gov/about/data-center/school/clery-act#washington",
+      "Type of Report ": "Clery ",
+      "Description": " ",
+      "name": "Clery Act Report: Washington State University",
+      },
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -77.072258,
+	 38.907609
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "address": "Washington Washington D.C. 20057",
+      "URL": "http://studentaid.ed.gov/about/data-center/school/clery-act#georgetown",
+      "Type of Report ": "Clery ",
+      "Description": " ",
+      "name": "Clery Act Report: Georgetown University",
+      },
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -98.497857,
+	 29.446359
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "address": "San Antonio Texas 78212",
+      "URL": "http://studentaid.ed.gov/about/data-center/school/clery-act#sanantonio",
+      "Type of Report ": "Clery ",
+      "Description": " ",
+      "name": "Clery Act Report: San Antonio College",
+      },
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -79.955936,
+	 39.63614
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "address": "Morgantown West Virginia 26506",
+      "URL": "http://studentaid.ed.gov/about/data-center/school/clery-act#wvu",
+      "Type of Report ": "Clery ",
+      "Description": " ",
+      "name": "Clery Act Report: West Virginia University",
+      },
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -80.217493,
+	 38.990616
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "address": "Buckhannon West Virginia 26201",
+      "URL": "http://studentaid.ed.gov/about/data-center/school/clery-act#wvwc",
+      "Type of Report ": "Clery ",
+      "Description": " ",
+      "name": "Clery Act Report: West Virginia Wesleyan College",
+      },
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -87.921352,
+	 44.532302
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "address": "Green Bay Wisconsin 54311",
+      "URL": "http://studentaid.ed.gov/about/data-center/school/clery-act#wisgb",
+      "Type of Report ": "Clery ",
+      "Description": " ",
+      "name": "Clery Act Report: University of Wisconsin-Green Bay",
+      },
+  },
+
+
+  ]
+}
