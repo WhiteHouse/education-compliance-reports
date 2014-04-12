@@ -55,6 +55,7 @@ for row in dictionary.keys():
     geojson.append('    },')
     geojson.append('    "properties": {')
     geojson.append('      "marker-symbol": "marker",')
+    geojson.append('      "marker-color": "#D4500F",')
     geojson.append('      "address": "{0}",'.format(' '.join(address).replace('"','')))
 
     # Remove trailing comma from last item in properties
