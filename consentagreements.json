@@ -908,14 +908,14 @@
    "geometry": {
       "type": "Point",
       "coordinates": [
-	 -77.35156,
-	 39.681965
+	 -74.013751,
+	 41.510927
     	]
     },
     "properties": {
       "marker-symbol": "marker",
       "marker-color": "#D4500F",
-      "address": "Emmitsburg Maryland 21727",
+      "address": "Newburgh NY 12550",
       "URL": "http://studentaid.ed.gov/about/data-center/school/clery-act#msmary",
       "Type of Report ": "Clery ",
       "Description": " ",
