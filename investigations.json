@@ -1,0 +1,943 @@
+
+{
+  "type": "FeatureCollection",
+  "features": [
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -112.073032,
+	 33.453527
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "marker-color": "#D4500F",
+      "address": " AZ ",
+      "name": "Arizona State University"
+      }
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -121.645734,
+	 39.648248
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "marker-color": "#D4500F",
+      "address": " CA ",
+      "name": "Butte-Glen Community College District"
+      }
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -118.212392,
+	 34.126615
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "marker-color": "#D4500F",
+      "address": " CA ",
+      "name": "Occidental College"
+      }
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -122.250563,
+	 37.873913
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "marker-color": "#D4500F",
+      "address": " CA ",
+      "name": "University of California-Berkeley"
+      }
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -118.285117,
+	 34.022352
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "marker-color": "#D4500F",
+      "address": " CA ",
+      "name": "University of Southern California"
+      }
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -105.033093,
+	 39.787583
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "marker-color": "#D4500F",
+      "address": " CO ",
+      "name": "Regis University"
+      }
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -105.265942,
+	 40.007581
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "marker-color": "#D4500F",
+      "address": " CO ",
+      "name": "University of Colorado at Boulder"
+      }
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -105.004231,
+	 39.743501
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "marker-color": "#D4500F",
+      "address": " CO ",
+      "name": "University of Colorado at Denver"
+      }
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -104.961896,
+	 39.676617
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "marker-color": "#D4500F",
+      "address": " CO ",
+      "name": "University of Denver"
+      }
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -72.25398,
+	 41.807741
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "marker-color": "#D4500F",
+      "address": " CT ",
+      "name": "University of Connecticut"
+      }
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -77.0001048,
+	 38.9380881
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "marker-color": "#D4500F",
+      "address": " DC ",
+      "name": "Catholic University of America"
+      }
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -84.298489,
+	 30.441878
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "marker-color": "#D4500F",
+      "address": " FL ",
+      "name": "Florida State University"
+      }
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -84.32398,
+	 33.792079
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "marker-color": "#D4500F",
+      "address": " GA ",
+      "name": "Emory University"
+      }
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -157.817612,
+	 21.299814
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "marker-color": "#D4500F",
+      "address": " HI ",
+      "name": "University of Hawaii at Manoa"
+      }
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -117.012608,
+	 46.728812
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "marker-color": "#D4500F",
+      "address": " ID ",
+      "name": "University of Idaho"
+      }
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -90.371304,
+	 40.941683
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "marker-color": "#D4500F",
+      "address": " IL ",
+      "name": "Knox College"
+      }
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -87.614945,
+	 41.8338965
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "marker-color": "#D4500F",
+      "address": " IL ",
+      "name": "University of Chicago"
+      }
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -86.514905,
+	 39.169135
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "marker-color": "#D4500F",
+      "address": " IN ",
+      "name": "Indiana University-Bloomington"
+      }
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -87.521038,
+	 38.688384
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "marker-color": "#D4500F",
+      "address": " IN ",
+      "name": "Vincennes University"
+      }
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -72.517003,
+	 42.37091
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "marker-color": "#D4500F",
+      "address": " MA ",
+      "name": "Amherst College"
+      }
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -71.107318,
+	 42.350754
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "marker-color": "#D4500F",
+      "address": " MA ",
+      "name": "Boston University"
+      }
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -71.065717,
+	 42.352082
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "marker-color": "#D4500F",
+      "address": " MA ",
+      "name": "Emerson College"
+      }
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -71.11666,
+	 42.377003
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "marker-color": "#D4500F",
+      "address": " MA ",
+      "name": "Harvard College"
+      }
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -71.118848,
+	 42.37809
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "marker-color": "#D4500F",
+      "address": " MA ",
+      "name": "Harvard University—Law School"
+      }
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -72.526712,
+	 42.391157
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "marker-color": "#D4500F",
+      "address": " MA ",
+      "name": "University of Massachusetts-Amherst"
+      }
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -78.933067,
+	 39.650511
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "marker-color": "#D4500F",
+      "address": " MD ",
+      "name": "Frostburg State University"
+      }
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -84.479151,
+	 42.704195
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "marker-color": "#D4500F",
+      "address": " MI ",
+      "name": "Michigan State University"
+      }
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -83.738226,
+	 42.278058
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "marker-color": "#D4500F",
+      "address": " MI ",
+      "name": "University of Michigan-Ann Arbor"
+      }
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -79.890756,
+	 36.096364
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "marker-color": "#D4500F",
+      "address": " NC ",
+      "name": "Guilford College"
+      }
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -79.046913,
+	 35.904912
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "marker-color": "#D4500F",
+      "address": " NC ",
+      "name": "University of North Carolina at Chapel Hill"
+      }
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -101.301683,
+	 48.245113
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "marker-color": "#D4500F",
+      "address": " ND ",
+      "name": "Minot State University"
+      }
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -72.288693,
+	 43.704441
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "marker-color": "#D4500F",
+      "address": " NH ",
+      "name": "Dartmouth College"
+      }
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -74.651448,
+	 40.343989
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "marker-color": "#D4500F",
+      "address": " NJ ",
+      "name": "Princeton University"
+      }
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -73.964876,
+	 40.768702
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "marker-color": "#D4500F",
+      "address": " NY ",
+      "name": "Cuny Hunter College"
+      }
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -76.985265,
+	 42.859508
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "marker-color": "#D4500F",
+      "address": " NY ",
+      "name": "Hobart and William Smith Colleges"
+      }
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -73.847544,
+	 40.933927
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "marker-color": "#D4500F",
+      "address": " NY ",
+      "name": "Sarah Lawrence College"
+      }
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -75.966972,
+	 42.088828
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "marker-color": "#D4500F",
+      "address": " NY ",
+      "name": "Suny at Binghamton"
+      }
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -82.522642,
+	 40.074025
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "marker-color": "#D4500F",
+      "address": " OH ",
+      "name": "Denison University"
+      }
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -83.031085,
+	 40.013842
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "marker-color": "#D4500F",
+      "address": " OH ",
+      "name": "Ohio State University"
+      }
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -83.812195,
+	 39.934657
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "marker-color": "#D4500F",
+      "address": " OH ",
+      "name": "Wittenberg University"
+      }
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -97.073722,
+	 36.127024
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "marker-color": "#D4500F",
+      "address": " OK ",
+      "name": "Oklahoma State University"
+      }
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -79.942553,
+	 40.442492
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "marker-color": "#D4500F",
+      "address": " PA ",
+      "name": "Carnegie Mellon University"
+      }
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -76.317913,
+	 40.04748
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "marker-color": "#D4500F",
+      "address": " PA ",
+      "name": "Franklin and Marshall College"
+      }
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -77.859908,
+	 40.798213
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "marker-color": "#D4500F",
+      "address": " PA ",
+      "name": "Pennsylvania State University"
+      }
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -75.35199,
+	 39.90652
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "marker-color": "#D4500F",
+      "address": " PA ",
+      "name": "Swarthmore College"
+      }
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -75.154679,
+	 39.982094
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "marker-color": "#D4500F",
+      "address": " PA ",
+      "name": "Temple University"
+      }
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -86.802744,
+	 36.144375
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "marker-color": "#D4500F",
+      "address": " TN ",
+      "name": "Vanderbilt University"
+      }
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -96.784518,
+	 32.841218
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "marker-color": "#D4500F",
+      "address": " TX ",
+      "name": "Southern Methodist University"
+      }
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -98.1742243,
+	 26.3083402
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "marker-color": "#D4500F",
+      "address": " TX ",
+      "name": "The University of Texas-Pan American"
+      }
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -76.716903,
+	 37.272328
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "marker-color": "#D4500F",
+      "address": " VA ",
+      "name": "College of William and Mary"
+      }
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -78.507977,
+	 38.033553
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "marker-color": "#D4500F",
+      "address": " VA ",
+      "name": "University of Virginia"
+      }
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -117.154422,
+	 46.731937
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "marker-color": "#D4500F",
+      "address": " WA ",
+      "name": "Washington State University"
+      }
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -88.743224,
+	 42.838355
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "marker-color": "#D4500F",
+      "address": " WI ",
+      "name": "University of Wisconsin-Whitewater"
+      }
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -80.5578079,
+	 40.2019785
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "marker-color": "#D4500F",
+      "address": " WV ",
+      "name": "Bethany College"
+      }
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
+	 -80.437646,
+	 37.804528
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "marker-color": "#D4500F",
+      "address": " WV ",
+      "name": "West Virginia School of Osteopathic Medicine"
+      }
+  }
+
+
+  ]
+}
