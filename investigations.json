@@ -416,6 +416,23 @@
    "geometry": {
       "type": "Point",
       "coordinates": [
+	 -71.119023,
+	 42.407484
+    	]
+    },
+    "properties": {
+      "marker-symbol": "marker",
+      "marker-color": "#D4500F",
+      "address": " MA ",
+      "name": "Tufts University"
+      }
+  },
+
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates": [
 	 -72.526712,
 	 42.391157
     	]
